@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TP2/Scenes/GameOver.unity
+  isLoaded: 1
+  isActive: 1
